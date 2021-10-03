@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Sobre mim
+Trabalho na função de suporte há um tempo e tenho o desejo de migrar para a área de programação. Aqui você irá encontrar alguns dos meus projetos e estudos.
+
 <!--
 **danielfss/danielfss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfss&show_icons=true&theme=radical)](https://github.com/danielfss/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielfss&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/danielfss/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfss&layout=compact)](https://github.com/danielfss/github-readme-stats)
