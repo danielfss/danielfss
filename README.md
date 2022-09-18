@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Sobre mim
-Trabalhei na área de suporte/redes por 5 anos e no final de 2020 foquei totalmente em ir para a área que eu tinha mais desejo em trabalhar, que era na área de programação. Graças a Deus em 2021 consegui dar o primeiro passo e estou aqui dando um passo de cada vez. Aqui você irá encontrar alguns dos meus projetos e estudos.
+Trabalhei na área de suporte/redes por +/- 5 anos e no final de 2020 foquei totalmente em ir para a área que eu tinha mais desejo em trabalhar, que era a área de programação. Graças a Deus em 2021 consegui dar o primeiro passo e estou aqui dando um passo de cada vez. Aqui você irá encontrar alguns dos meus projetos e estudos.
 
 <!--
 **danielfss/danielfss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Daniel-POSTEGRESQL" height="30" width="90" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Daniel-MYQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Daniel-GITHUB" height="30" width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Daniel-GITLAB" height="30" width="90" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img align="center" alt="Daniel-GITLAB" height="30" width="90" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"><br>
 </div>
 
 
