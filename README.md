@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 ## Estatísticas
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielfss&show_icons=true&theme=merko)](https://github.com/danielfss/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielfss&show_icons=true&theme=merko)](https://github.com/danielfss/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfss&layout=compact)](https://github.com/danielfss/github-readme-stats)
