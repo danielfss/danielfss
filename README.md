@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### Sobre mim
-Trabalhei na área de suporte/redes por +/- 5 anos e no final de 2020 foquei totalmente em ir para a área que eu tinha mais desejo em trabalhar, que era a área de programação. Graças a Deus, em 2021 consegui dar o primeiro passo e estou trabalhando como Desenvolvedor Java Junior. Aqui você irá encontrar alguns dos meus projetos e estudos.
+Iniciei minha carreira na área de TI trabalhando no ramo de suporte/redes por +/- 5 anos. No final de 2020 concentrei meu foco em ir para a área que eu tinha mais desejo em trabalhar, que era a área de programação. 
+Graças a Deus, em 2021 consegui dar o primeiro passo e comecei a trabalhar como Desenvolvedor. Tive alguns percalços, fui estagiário, trainee e por fim alcancei a vaga de desenvolvedor java junior. Atualmente trabalho como Desenvolvedor Fullstack (Java + Vue). Aqui neste perfil você irá encontrar alguns dos meus projetos e estudos.
 
 <!--
 **danielfss/danielfss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
