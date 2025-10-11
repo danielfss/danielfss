@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### Sobre mim
-Iniciei minha carreira na área de TI trabalhando no ramo de suporte/redes por +/- 5 anos. No final de 2020 concentrei meu foco em ir para a área que eu tinha mais desejo em trabalhar, que era a área de programação. 
+Atualmente atuo como Desenvolvedor Fullstack PL na CAR - Companhia de Desenvolvimento e Ação Regional.
+Iniciei minha carreira na área de TI trabalhando no ramo de suporte helpdesk/redes por +/- 5 anos. No final de 2020 concentrei meu foco em ir para a área que eu tinha mais desejo em trabalhar, que era a área de programação. 
 Graças a Deus, em 2021 consegui dar o primeiro passo e comecei a trabalhar como Desenvolvedor. Tive alguns percalços, fui estagiário, trainee e por fim alcancei a vaga de desenvolvedor java junior. Atualmente trabalho como Desenvolvedor Fullstack (Java + Vue). Aqui neste perfil você irá encontrar alguns dos meus projetos e estudos.
 
 <!--
