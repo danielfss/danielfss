@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Atualmente atuo como Desenvolvedor Fullstack PL na CAR - Companhia de Desenvolvimento e Ação Regional.
+## Trabalhando como Desenvolvedor Fullstack PL na CAR - Companhia de Desenvolvimento e Ação Regional.
 
 ### Sobre mim
 Iniciei minha carreira na área de TI trabalhando no ramo de suporte helpdesk/redes por +/- 5 anos. No final de 2020 concentrei meu foco em ir para a área que eu tinha mais desejo em trabalhar, que era a área de programação. 
