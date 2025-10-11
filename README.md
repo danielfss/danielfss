@@ -1,9 +1,26 @@
 ### Hi there 👋
 
+## Atualmente atuo como Desenvolvedor Fullstack PL na CAR - Companhia de Desenvolvimento e Ação Regional.
+
 ### Sobre mim
-Atualmente atuo como Desenvolvedor Fullstack PL na CAR - Companhia de Desenvolvimento e Ação Regional.
 Iniciei minha carreira na área de TI trabalhando no ramo de suporte helpdesk/redes por +/- 5 anos. No final de 2020 concentrei meu foco em ir para a área que eu tinha mais desejo em trabalhar, que era a área de programação. 
-Graças a Deus, em 2021 consegui dar o primeiro passo e comecei a trabalhar como Desenvolvedor. Tive alguns percalços, fui estagiário, trainee e por fim alcancei a vaga de desenvolvedor java junior. Atualmente trabalho como Desenvolvedor Fullstack (Java + Vue). Aqui neste perfil você irá encontrar alguns dos meus projetos e estudos.
+Graças a Deus, em 2021 consegui dar o primeiro passo e comecei a trabalhar como Desenvolvedor. Tive alguns percalços, fui estagiário, trainee e por fim alcancei a vaga de desenvolvedor java junior. Atualmente trabalho como Desenvolvedor Fullstack PL. 
+Aqui neste perfil você irá encontrar alguns dos meus projetos e estudos.
+
+Principais Skills:
+- Java
+- Spring Boot
+- Javascript
+- HTML / CSS
+- Vue.js 2 e 3
+- Quasar Framework
+- Bancos de Dados Relacionais
+  - SQL Server 2008
+  - PostgreSQL
+- Linux
+- Docker
+- Deploy em servidores on-premise Linux / Windows Server
+- Entre outras hard skills e soft skills :)
 
 <!--
 **danielfss/danielfss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
