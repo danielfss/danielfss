@@ -14,6 +14,7 @@ Principais Skills:
 - HTML / CSS
 - Vue.js 2 e 3
 - Quasar Framework
+- Apache Struts 1.3 + Tiles, EJB e JBoss 4.2
 - Bancos de Dados Relacionais
   - SQL Server 2008
   - PostgreSQL
